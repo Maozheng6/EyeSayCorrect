@@ -1,4 +1,6 @@
 # EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices
+Maozheng Zhao, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, Khiem Phi, Shumin Zhai, I.V. Ramakrishnan, Fusheng Wang, and Xiaojun Bi.
+![affiliation](affiliation1.png)
 ![EyeSayCorrect teaser](EyeSayCorrect_teaser.png)
 
 ## Video Demo (2 minutes)
