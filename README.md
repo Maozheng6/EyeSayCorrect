@@ -1,7 +1,7 @@
 # EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices
 ![EyeSayCorrect teaser](EyeSayCorrect_teaser.png)
 
-## Video Demo 
+## Video Demo (2 minutes)
 <p align="center">
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1244y1W7jt&page=1" scrolling="no" border="0" title="EyeSayCorrect Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
