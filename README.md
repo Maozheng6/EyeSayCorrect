@@ -11,8 +11,7 @@ Text correction on mobile devices usually requires precise and repetitive manual
 
 ## Publication (preprint)
 
-Maozheng Zhao, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, Khiem Phi, Shumin Zhai, I.V. Ramakrishnan, Fusheng Wang, and Xiaojun Bi. [EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices.]
-(EyeSayCorrect_camera_ready.pdf) In The 27th ACM Annual Conference on Intelligent User Interfaces (IUI '22), March 22-25, 2022, Virtual Event, Helsinki, Finland, 14 pages.
+Maozheng Zhao, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, Khiem Phi, Shumin Zhai, I.V. Ramakrishnan, Fusheng Wang, and Xiaojun Bi. [EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices.](EyeSayCorrect_camera_ready.pdf) In The 27th ACM Annual Conference on Intelligent User Interfaces (IUI '22), March 22-25, 2022, Virtual Event, Helsinki, Finland, 14 pages.
 
 ## Contact
 For questions and further information, please contact:
