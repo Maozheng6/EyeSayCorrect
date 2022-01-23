@@ -6,13 +6,11 @@ Stony Brook University, Google LLC
 
 ## Video Demo (2 minutes)
 <p align="center">
- <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@maozhengzhao3/video/7056519554750549295" data-video-id="7056519554750549295" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@maozhengzhao3" href="https://www.tiktok.com/@maozhengzhao3">@maozhengzhao3</a> <p>EyeSayCorrect_video_demo</p> <a target="_blank" title="♬ original sound Maozheng Zhao708" href="https://www.tiktok.com/">♬ original sound Maozheng Zhao708</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
- 
+<iframe src="https://archive.org/embed/eye-say-correct-video-demo" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1244y1W7jt&page=1" scrolling="no" border="0" title="EyeSayCorrect Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
-<video src="https://github.com/Maozheng6/EyeSayCorrect/blob/main/EyeSayCorrect_video_demo.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
 
 ## Abstract
 Text correction on mobile devices usually requires precise and repetitive manual control. In this paper, we present EyeSayCorrect, an eye gaze and voice based hands-free text correction method for mobile devices. To correct text with EyeSayCorrect, the user first utilizes the gaze location on the screen to select a word, then speaks the new phrase. EyeSayCorrect would then infer the user's correction intention based on the inputs and the text context. EyeSayCorrect can accommodate ambiguities and noisy input signals. We used a Bayesian approach for determining the selected word given an eye-gaze trajectory. Given each sampling point in an eye-gaze trajectory, the posterior probability of selecting a word is calculated and accumulated. The target word would be selected when its accumulated interest is larger than a threshold. The misspelled words have higher priors. Our first user study proved that using priors for misspelled words reduced the task completion time by 9.26% for large font size (28 pt) and by 23.79% for small font size (14 pt). The subjective ratings are also in favor of the method with priors. Our second user study compared the touch-only method with EyeSayCorrect with priors. The touch-only method took 61.23% and 64.49% task completion times of EyeSayCorrect for large and small font sizes.  Although EyeSayCorrect is less efficient than the touch-only method, it does not require acquaintance of the QWERTY keyboard layout, synergistically utilizes the advantages of eye gaze and voice modalities, enables hands-free text correction on mobile devices.
