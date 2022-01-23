@@ -9,7 +9,7 @@ Stony Brook University, Google LLC
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1244y1W7jt&page=1" scrolling="no" border="0" title="EyeSayCorrect Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
-<video src="Eye.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/Maozheng6/EyeSayCorrect/blob/main/EyeSayCorrect_video_demo.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 ## Abstract
