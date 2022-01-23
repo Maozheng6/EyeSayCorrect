@@ -9,7 +9,7 @@ Stony Brook University, Google LLC
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1244y1W7jt&page=1&high_quality=1" scrolling="no" border="0" title="EyeSayCorrect Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
-You can also the video on youtube.com or [bilibili.com](https://www.bilibili.com/video/BV1244y1W7jt?spm_id_from=333.999.0.0).
+You can also watch the video on youtube.com or [bilibili.com](https://www.bilibili.com/video/BV1244y1W7jt?spm_id_from=333.999.0.0).
 
 
 
