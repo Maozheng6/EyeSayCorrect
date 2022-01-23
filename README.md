@@ -6,6 +6,8 @@ Stony Brook University, Google LLC
 
 ## Video Demo (2 minutes)
 <p align="center">
+ <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@maozhengzhao3/video/7056519554750549295" data-video-id="7056519554750549295" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@maozhengzhao3" href="https://www.tiktok.com/@maozhengzhao3">@maozhengzhao3</a> <p>EyeSayCorrect_video_demo</p> <a target="_blank" title="♬ original sound Maozheng Zhao708" href="https://www.tiktok.com/">♬ original sound Maozheng Zhao708</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+ 
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1244y1W7jt&page=1" scrolling="no" border="0" title="EyeSayCorrect Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
