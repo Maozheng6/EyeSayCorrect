@@ -19,5 +19,6 @@ Maozheng Zhao, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya
 
 ## Contact
 For questions and further information, please contact:<br/>
-Maozheng Zhao  Email: maozheng.zhao@stonybrook.edu
+Maozheng Zhao<br/>
+Email: maozheng.zhao@stonybrook.edu
 
