@@ -4,6 +4,15 @@ Stony Brook University, Google LLC
 
 ![EyeSayCorrect teaser](EyeSayCorrect_teaser.png)
 
+## Presentation Video (8 minutes)
+<p align="center">
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=682611771&bvid=BV1AU4y1o7CM&cid=558101415&page=1" scrolling="no" border="0" title="EyeSayCorrect presentation video" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>
+
+The video is also available on [Youtube](https://youtu.be/cSYQwaqchl0) and [Bilibili](https://www.bilibili.com/video/BV1AU4y1o7CM?share_source=copy_web).
+
+
+
 ## Video Demo (2 minutes)
 <p align="center">
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1244y1W7jt&page=1&high_quality=1" scrolling="no" border="0" title="EyeSayCorrect Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
